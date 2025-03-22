@@ -1,0 +1,15 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# NLP Libraries
+nltk
+spacy
+
+# Experimenting with Multiple Models
+xgboost
+lightgbm
+catboost

@@ -1,0 +1,9 @@
+Initialization
+- create a repo on github for versioning.
+- clone repo to local.
+- create experiments.ipynb for experimentation.
+- create a virtual environment.
+        conda create --name ml_project python=3.11
+        conda activate ml_project
+- create a requirements.txt file and install all the dependencies
+        pip install -r requirements.txt
