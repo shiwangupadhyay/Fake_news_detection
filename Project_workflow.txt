@@ -11,3 +11,6 @@ Initialization:
 Expeerimentation:
 - see experiment notebook for ml_project
 
+Project setup:
+- all files added using template.python.
+- setup.py and pyproject.toml added.
