@@ -8,6 +8,7 @@ seaborn
 # NLP Libraries
 nltk
 spacy
+textblob
 
 # Experimenting with Multiple Models
 xgboost

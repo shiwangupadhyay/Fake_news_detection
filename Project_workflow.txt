@@ -1,4 +1,4 @@
-Initialization
+Initialization:
 - create a repo on github for versioning.
 - clone repo to local.
 - create experiments.ipynb for experimentation.
@@ -7,3 +7,7 @@ Initialization
         conda activate ml_project
 - create a requirements.txt file and install all the dependencies
         pip install -r requirements.txt
+
+Expeerimentation:
+- see experiment notebook for ml_project
+
