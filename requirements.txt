@@ -14,3 +14,7 @@ textblob
 xgboost
 lightgbm
 catboost
+
+dill
+yaml
+-e .

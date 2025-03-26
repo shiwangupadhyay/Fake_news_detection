@@ -14,3 +14,7 @@ Expeerimentation:
 Project setup:
 - all files added using template.python.
 - setup.py and pyproject.toml added.
+
+Data Ingestion:
+- data is ingested from local file "data/data.csv"
+- then data is splitted into test.csv and train.csv and saved in artifact directory for further processing.
