@@ -1,0 +1,17 @@
+columns:
+  - title: object
+  - text: object
+  - subject: object
+  - date: object
+  - label: int
+
+numerical_columns:
+  - label
+
+categorical_columns:
+  - title
+  - text
+  - subject
+
+drop_columns:
+  - date
