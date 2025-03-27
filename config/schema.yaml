@@ -1,17 +1,9 @@
 columns:
-  - title: object
-  - text: object
-  - subject: object
-  - date: object
+  - stemmed_tokens: object
   - label: int
 
 numerical_columns:
   - label
 
 categorical_columns:
-  - title
-  - text
-  - subject
-
-drop_columns:
-  - date
+  - stemmed_tokens
